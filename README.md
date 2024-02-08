@@ -15,6 +15,7 @@
 | [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/Web-Application-Security-Exploitation-Countermeasures/dp/1492053112/ref=sr_1_1?keywords=Web+Application+Security&qid=1678546588&sr=8-1)           |     Andrew Hoffman      |  January 2023  |   7    |
 | [PostgreSQL. Основы языка SQL](https://www.postgrespro.ru/education/books/sqlprimer)                                                                                                                                                                              |    Евгений Моргунов     |  January 2023  |   8    |
 | [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_2?keywords=system+design+interview&qid=1678546910&sprefix=system+d%2Caps%2C264&sr=8-2)                                       |         Alex Xu         | February 2023  |   8    |
+| [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/ref=asc_df_1530826608/?tag=hyprod-20&linkCode=df0&hvadid=312176709100&hvpos=&hvnetw=g&hvrand=3463469439263264532&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-406163940673&psc=1&mcid=da15e75571233eb0b90839f03c187ebe&tag=&ref=&adgrpid=60258872537&hvpone=&hvptwo=&hvadid=312176709100&hvpos=&hvnetw=g&hvrand=3463469439263264532&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2840&hvtargid=pla-406163940673&gclid=CjwKCAiA8YyuBhBSEiwA5R3-E2Aw79nsZFR5HPNrYegMfQYCPpE1La2vz5qyugTlyxCc6ns3KfKicRoC0ZIQAvD_BwE)                                       |         Tariq Rashid         | February 2024  |   7    |
 
 ---
 
@@ -29,5 +30,3 @@
 * Introduction to Algorithms
 * The Algorithm Design Manual
 * ...
-
-
